@@ -1,0 +1,6 @@
+https://api.mapbox.com/styles/v1/letspks/clre3hs4k00bg01qnhy3432i0.html?title=view&access_token=pk.eyJ1IjoibGV0c3BrcyIsImEiOiJjbHJlMGtsaHcwN2o3MnFvMDhobm0yZncxIn0.1hCYxfb0BKloYrllr0bZ9A&zoomwheel=true&fresh=true#10.52/41.8472/-87.607
+
+
+
+drugi styl
+https://api.mapbox.com/styles/v1/letspks/clre46w5n00cg01qv8et7c1ab.html?title=view&access_token=pk.eyJ1IjoibGV0c3BrcyIsImEiOiJjbHJlMGtsaHcwN2o3MnFvMDhobm0yZncxIn0.1hCYxfb0BKloYrllr0bZ9A&zoomwheel=true&fresh=true#14.1/49.00403/8.44001
